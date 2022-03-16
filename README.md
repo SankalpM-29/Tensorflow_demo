@@ -1,1 +1,3 @@
-# Tensorflow demo using mnist
+# Tensorflow demo
+
+Learning about diffferent functionalities of Tensorflow.
